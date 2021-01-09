@@ -29,6 +29,8 @@ tuple maxMin(int* arr,int n){
 	}
 	return p;
 }
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 int main(){
 	int n;
 	cin>>n;
