@@ -18,7 +18,9 @@ int kthSmallest(int* arr,int n,int k){
 	}
 	return sorted.top();	
 }
-
+// Time Complexity: O(n)
+// Space Complexity: O(n)
+//---------------------------------------------------------------------------------
 //Approach 2: Using quickselect
 void swap(int* a,int* b){
 	int temp=*a;
@@ -50,6 +52,8 @@ int kthSmallest(int* arr,int l,int r,int k){
 		return kthSmallest(arr,idx+1,r,k);
 	}
 }
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 
 //main function
 int main(){
