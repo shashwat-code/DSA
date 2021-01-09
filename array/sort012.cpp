@@ -11,6 +11,7 @@ void swap(int* a,int* b){
 	*a=*b;
 	*b=temp;
 }
+
 void sort012(int* arr,int n){
 	int i0=0,i1=0,i2=n-1;
 	while(i1<=i2){
@@ -28,7 +29,7 @@ void sort012(int* arr,int n){
 	}
 }
 // Time Complexity: O(n)
-// Space Complexity: O(1)
+// Space Complexity: O(1) 
 int main(){
 	int n;
 	cin>>n;
