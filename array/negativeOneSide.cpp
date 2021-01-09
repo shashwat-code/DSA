@@ -27,6 +27,8 @@ void arrange(int* arr,int n){
 		} 
 	}
 }
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 int main(){
 	int n;
 	cin>>n;
