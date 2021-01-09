@@ -22,14 +22,24 @@ int minJumps(int* arr,int n){
 			
 		}
 	}
+	for(int i=0;i<n;i++){
+		cout<<dp[i]<<" ";
+	}
+	if(dp[n-1]==INT_MAX-1){
+		return -1;
+	}
 	return dp[n-1];
 }
 // Time Complexity: O(n2)
 // Space Complexity: O(n)
 int main(){
-	int arr[] = { 1, 3, 6, 3, 2,
-                  3, 6, 8, 9, 5 };
-    int n = sizeof(arr) / sizeof(arr[0]);
+	int n;
+	cin>>n;
+	int arr[n];
+	for(int i=0;i<n;i++){
+		cin>>arr[i];
+	}
+   
     cout<<minJumps(arr,n);
 	return 0;
 }
