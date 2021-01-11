@@ -4,7 +4,7 @@ using namespace std;
 int main() {
 	 int t;
 	 cin>>t;
-	 
+
 	 while(t--){
 	     vector<int> arr1;
 	     vector<int> arr2;
@@ -35,3 +35,5 @@ int main() {
 	 }
 	return 0;
 }
+// Time Complexity: O(n)
+// Space Complexity: O(n)
