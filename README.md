@@ -6,10 +6,10 @@ Solving DSA for interview
 ## DAY 1
 
 - [ ]  Leetcode Day 9-01-2022
-- [x]  https://leetcode.com/problems/check-if-n-and-its-double-exist/submissions/  [EASY]
-- [x]  https://leetcode.com/problems/check-if-n-and-its-double-exist/submissions/ [EASY] 
+- [x]  https://leetcode.com/problems/check-if-n-and-its-double-exist/  [EASY]
+- [x]  https://leetcode.com/problems/check-if-n-and-its-double-exist/ [EASY] 
 - [x]  Printing Sequence using recursion 
-- [x]  https://leetcode.com/problems/perfect-number/solution/ [EASY]  
+- [x]  https://leetcode.com/problems/perfect-number/ [EASY]  
 
 ## DAY 2
 
