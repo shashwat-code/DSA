@@ -28,4 +28,4 @@ Solving DSA for interview
 - [ ]  Leetcode Day 11-01-2022
 - [x]  [Ugly Number](https://leetcode.com/problems/ugly-number/) 🟩
 - [x]  [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) 🟩 
-- [ ]  [Combination Sum](https://leetcode.com/problems/combination-sum) 🟨 
+- [x]  [Combination Sum](https://leetcode.com/problems/combination-sum) 🟨 
