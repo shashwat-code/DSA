@@ -25,6 +25,6 @@ Solving DSA for interview
 
 ## DAY 3
 
-- [ ]  Leetcode Day 10-01-2022
+- [ ]  Leetcode Day 11-01-2022
 - [x]  [Ugly Number](https://leetcode.com/problems/ugly-number/) 🟩
 - [x]  [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) 🟩 
